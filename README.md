@@ -1,6 +1,6 @@
 # GAMING-INDUSTRY-LAYOFFS
 
-![image](https://user-images.githubusercontent.com/56026296/229609893-b7b1f261-5941-45af-8322-1ccb2535d36b.png)
+![image](https://github.com/user-attachments/assets/6cd6f0c4-6829-48ae-90fc-2a0f8e33ac70)
 
 ## Data Used
 
