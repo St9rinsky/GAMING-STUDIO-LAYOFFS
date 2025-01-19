@@ -14,6 +14,5 @@ This is a mini data analysis and dashboard of layoffs in the gaming industry dur
      
 
 ## Limitations
--Some records had missing critical information and were excluded from the queries
-
--records for the year 2024 were incomplete for the last months as the data was obtained during 2024
+     * Some records had missing critical information and were excluded from the queries
+     * Records for the year 2024 were incomplete for the last months as the data was obtained during 2024
