@@ -2,19 +2,16 @@
 
 ![image](https://github.com/user-attachments/assets/6cd6f0c4-6829-48ae-90fc-2a0f8e33ac70)
 
-## Data Used
+## SUMMARY
+This is a mini data analysis and dashboard of layoffs in the gaming industry during the period of 2022 to 2024, the data was obtained from a data scraping website from Obsidian. the data was analysed using Ms SQL and Power Bi to create the dashboard.
 
-**Data** - Gaming industry layoffs data with a combination of over 250 rows from the year 2022 to 2024.
+## The dashboard answers the following business questions
 
-**Data Cleaning & Analysis** - MSSQL server and MS Excel
-
-**Data Visualization** - PowerBI
-
-### summary Findings
-- The united states of america had the highest total count of layoffs however an extremely low average layoff rate per company
-signifying that most companies experienced layoffs but not to the extreme, however Singapore and Russia had the highest layoff average per company signifying more harsh layoffs.
-
-- Layoffs have been a consistent issue through out 2022 to 2024 as the data show a steady consistent increase in layoffs, this could be as a result of changing market dynamincs, such as the boom that happened in the gaming industry with the increased demand in home entertainment during Covid-19 and the eventual drop in demand as things returned back to normal resulting in companies adjusting their workforce.
+1. How is the layoff distrution over time?
+2. Which parent companies Experinced the highest amount of layoffs?
+3. Which regions Experinced the highest amount of layoffs and what is the ratio distribution?
+4. What is the Percentage contribution of layoffs by the type of Studio?
+     
 
 ## Limitations
 -Some records had missing critical information and were excluded from the queries
