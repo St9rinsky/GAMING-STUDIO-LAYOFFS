@@ -1,4 +1,4 @@
-# GAMING-INDUSTRY-LAYOFFS
+# Power BI | GAMING INDUSTRY LAYOFFS
 
 ![image](https://github.com/user-attachments/assets/6cd6f0c4-6829-48ae-90fc-2a0f8e33ac70)
 
